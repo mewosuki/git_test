@@ -1,0 +1,1 @@
+This is Mewosuki's first git project! Yahooo!
